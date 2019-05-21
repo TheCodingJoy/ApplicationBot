@@ -5,6 +5,7 @@ const config = require('./config.json');
 
 bot.on('ready', () => {
   console.log(`Logged in as ${bot.user.tag}!`);
+  bot.user.setActivity(`${config.prefix}apply`, { type: 'WATCHING' });
 });
 
 bot.on('messageReactionAdd', (reaction, user) => {
