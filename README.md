@@ -4,11 +4,16 @@
 
 
 **Requirements**
+
 NodeJS 
+
 git (optional) 
 
+
 **Packages**
+
 discord.js 
+
 
 **How to self-host**
 
