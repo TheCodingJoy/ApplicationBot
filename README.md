@@ -4,14 +4,14 @@
 
 
 **Requirements**
-NodeJS
-git (optional)
+NodeJS 
+git (optional) 
 
 **Packages**
-discord.js
+discord.js 
 
 **How to self-host**
 1: Clone this repository
-1.1: If you have git use ``git clone https://github.com/TheCodingJoy/ApplicationBot``
-2: Run ``npm install discord.js`` to get the discord.js Package
-3: Run ``node bot.js``
+1.1: If you have git use ``git clone https://github.com/TheCodingJoy/ApplicationBot`` 
+2: Run ``npm install discord.js`` to get the discord.js Package 
+3: Run ``node bot.js`` 
