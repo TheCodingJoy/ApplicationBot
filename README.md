@@ -23,4 +23,7 @@ discord.js
 
 2: Run ``npm install discord.js`` to get the discord.js Package 
 
-3: Run ``node bot.js`` 
+3: Edit the ``config.json.example`` File and rename it to ``config.json``
+
+
+4: Run ``node bot.js`` 
